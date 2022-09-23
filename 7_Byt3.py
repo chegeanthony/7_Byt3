@@ -14,8 +14,8 @@ print(
                                                                         
   
      
-                                          [ twitter.com/steiner254 ]
-                                          [ github.com/Steiner-254 ]
+                                          [ twitter.com/Tonycodh ]
+                                          [ github.com/chegeanthony ]
         """ + Fore.RESET)
 
 print()
