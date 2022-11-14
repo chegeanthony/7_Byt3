@@ -6,10 +6,21 @@ from colorama import Fore, Back, Style
 print(
         Fore.BLUE +
          """
-..............................................................................................................
-.............                .....................................                  ...........................
-..........................................                  ..................................................
- ...............................................................................................................                                                                       
+OOOOOOOOOOOOOOOOOOOO LLLLLLLLLLLLLLLLL    IIIIIIII         IIIII CCCCCCCCCCCCCCCCCCCCCCCCCCC   YYYYYYYYYYYYYYYYYY
+OOOOOO        OOOO   LLLLL     LLLLLLLLL    IIIIIIII        IIIII CCCC     CCCCCCC     CCCC     YYYYYYYYYYYYYYYY
+OOOOO        OOOO    LLLLL       LLLLLLLL    IIIIIIII        IIII  CCC     CCCCCCC     CCC             YYYYYYY 
+OOOO        OOOO     LLLLL        LLLLLLL     IIIIIIII      IIII    CC     CCCCCCC     CC            YYYYYYYY
+          OOOO       LLLLL       LLLLLLL        IIIIIIII  IIII       C     CCCCCCC     C            YYYYYYYY 
+         OOOO        LLLLL    LLLLLLLL           IIIIIIIIIIII              CCCCCCC                 YYYYYYYY
+        OOOO         LLLLLLLLLLLLLLLL             IIIIIIIII                CCCCCCC                YYYYYYYY
+       OOOO          LLLLLLLLLLLLLLLLLL           IIIIIIII                 CCCCCCC               YYYYYYYYY
+      OOOO           LLLLL    LLLLLLLLLLL         IIIIIIII                 CCCCCCC                 YYYYYYYY 
+     OOOO            LLLLL      LLLLLLLLLL        IIIIIIII                 CCCCCCC                   YYYYYYY
+    OOOO             LLLLL        LLLLLLLL        IIIIIIII                 CCCCCCC                     YYYYYYY 
+  OOOO               LLLLL      LLLLLLLL          IIIIIIII                 CCCCCCC                      YYYYYYY
+ OOOO                LLLLL     LLLLLLLLL          IIIIIIII                 CCCCCCC                        YYYYYYY
+OOOO                 LLLLL    LLLLLLLLL           IIIIIIII                 CCCCCCC               YYYYYYYYYYYYYYYYYY
+OOO                  LLLLLLLLLLLLLLLLLL           IIIIIIII                 CCCCCCC               YYYYYYYYYYYYYYYYYYY                                                                       
   
      
                                           [ twitter.com/Tonycodh ]
